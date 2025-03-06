@@ -1,0 +1,5 @@
+TLV-1: SERVER
+TLV-2: newDATA1
+TLV-4: newDATA
+TLV-5: newDATA
+TLV-6: newDATA
